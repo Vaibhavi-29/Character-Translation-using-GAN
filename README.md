@@ -5,7 +5,7 @@
      Use the brain/circuit graphic from Slide 1 (title slide) of PROJECT_PRESENTATION.pdf, 
      OR better — create a simple collage of one Nandinagari, one Sharda, and one Hindi 
      character side by side as a hero banner. Save as assets/banner.png -->
-<!-- ![Project Banner](assets/banner.png) -->
+![Project Banner](assets/banner.png)
 
 ---
 
