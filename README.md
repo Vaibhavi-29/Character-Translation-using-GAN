@@ -33,13 +33,14 @@ Many historical documents, inscriptions, and copper-plate records exist only as 
 - **Direct translation from digital images** (e.g., copper plate inscriptions) is largely unexplored.
 - **Historical significance** — preserving accessibility to India's linguistic history.
 - **Accessibility for the general public** — enabling people unfamiliar with Nandinagari/Sharda to understand these texts without needing a linguist.
+<br clear="right">
 
 ## 🗂️ Dataset
 
 <!-- 🖼️ IMAGE 3: Use the Source/Target grid from Slide 4 ("DATASET") of 
      PROJECT_PRESENTATION.pdf — the 4-image grid showing Nandinagari→Hindi 
      and Sharda→Hindi pairs. Save as assets/dataset_samples.png -->
-![Dataset Samples](assets/dataset_samples.png)
+<img src="assets/dataset_samples.png" alt="Dataset Samples" width="280" align="left">
 
 The dataset is **handmade** — each character was handwritten and photographed to create paired (source, target) images.
 
