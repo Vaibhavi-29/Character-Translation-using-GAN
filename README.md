@@ -25,7 +25,8 @@ Nandinagari and Sharda are scripts once used in various parts of India (Sharda p
 <!-- 🖼️ IMAGE 2: Use the Nandinagari/Sharda sample character images from Slide 2 
      ("Problem Statement") of PROJECT_PRESENTATION.pdf — the two character crops 
      with the blue arrow. Save as assets/problem_statement.png -->
-![Problem Statement](assets/problem_statement.png)
+<p align="center">
+  <img src="assets/problem_statement.png" alt="Problem Statement" width="600">
 
 Many historical documents, inscriptions, and copper-plate records exist only as **images**, not as digitized or transliterated text. This creates a few challenges this project tries to address:
 
