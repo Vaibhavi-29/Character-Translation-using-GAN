@@ -33,14 +33,13 @@ Many historical documents, inscriptions, and copper-plate records exist only as 
 - **Direct translation from digital images** (e.g., copper plate inscriptions) is largely unexplored.
 - **Historical significance** — preserving accessibility to India's linguistic history.
 - **Accessibility for the general public** — enabling people unfamiliar with Nandinagari/Sharda to understand these texts without needing a linguist.
-<br clear="right">
 
 ## 🗂️ Dataset
 
 <!-- 🖼️ IMAGE 3: Use the Source/Target grid from Slide 4 ("DATASET") of 
      PROJECT_PRESENTATION.pdf — the 4-image grid showing Nandinagari→Hindi 
      and Sharda→Hindi pairs. Save as assets/dataset_samples.png -->
-<img src="assets/dataset_samples.png" alt="Dataset Samples" width="280" align="left">
+<img src="assets/dataset_samples.png" alt="Dataset Samples" width="300" height="300" align="left">
 
 The dataset is **handmade** — each character was handwritten and photographed to create paired (source, target) images.
 
@@ -60,7 +59,9 @@ Each pair is preprocessed (resized, normalized to `[-1, 1]`) before being fed in
 
 <!-- 🖼️ IMAGE 4: Use the GAN composition diagram from Slide 5 ("Generative Adversarial 
      Networks") of PROJECT_PRESENTATION.pdf. Save as assets/gan_overview.png -->
-![GAN Overview](assets/gan_overview.png)
+<p align="center">
+  <img src="assets/gan_overview.png" alt="GAN Overview" width="600">
+</p>
 
 Standard GANs generate data from random noise and offer no control over *what* gets generated. Since this task requires **targeted, paired translation** (a specific Nandinagari/Sharda character → a specific Hindi character), a **Conditional GAN (Pix2Pix)** was used instead.
 
