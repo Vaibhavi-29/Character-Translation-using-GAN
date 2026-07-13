@@ -26,7 +26,7 @@ Nandinagari and Sharda are scripts once used in various parts of India (Sharda p
      ("Problem Statement") of PROJECT_PRESENTATION.pdf — the two character crops 
      with the blue arrow. Save as assets/problem_statement.png -->
 <p align="center">
-  <img src="assets/problem_statement.png" alt="Problem Statement" width="600">
+  <img src="assets/problem_statement.png" alt="Problem Statement" width="600", align="right>
 
 Many historical documents, inscriptions, and copper-plate records exist only as **images**, not as digitized or transliterated text. This creates a few challenges this project tries to address:
 
